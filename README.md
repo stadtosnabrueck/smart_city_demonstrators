@@ -15,6 +15,8 @@ The demonstrators were implemented using the **Arduino platform**, which combine
 
 The City of Osnabrück created a total of three demonstrators that are similar in construction. Therefore, only the most extensive demonstrator is described here.
 
+---
+
 ### 1. Required Hardware
 
 - **1x Arduino Uno REV3** (recommended version as some GROVE sensors may not work with newer versions)
