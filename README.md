@@ -2,6 +2,13 @@
 
 The City of Osnabrück developed several exhibits to demonstrate Smart City topics interactively. These demonstrators highlight the relationship between data and challenges in a playful manner. They have been showcased in museums and other exhibitions.
 
+![In action](demonstrator_in_action.gif)
+
+![Front](demonstrator_front.png)
+![Cables](demonstrator_cables.jpg)
+![Mounting](demonstrator_mounting.jpg)
+![Mounting 2](demonstrator_mounting_2.jpg)
+
 ## Implementation Details
 
 The demonstrators were implemented using the **Arduino platform**, which combines open-source hardware and software. To simplify the connection of sensors and switches, the **GROVE connector system** was utilized, though other systems can also be used.
