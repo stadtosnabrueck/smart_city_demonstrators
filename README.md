@@ -13,6 +13,8 @@ The City of Osnabrück developed several exhibits to demonstrate Smart City topi
 
 The demonstrators were implemented using the **Arduino platform**, which combines open-source hardware and software. To simplify the connection of sensors and switches, the **GROVE connector system** was utilized, though other systems can also be used.
 
+The City of Osnabrück created a total of three exhibits that are similar in construction. Therefore, only the most extensive exhibit is described here.
+
 ### 1. Required Hardware
 
 - **1x Arduino Uno REV3** (recommended version as some GROVE sensors may not work with newer versions)
